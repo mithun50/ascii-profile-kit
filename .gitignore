@@ -1,0 +1,9 @@
+# cloned profile repo (not part of the kit)
+/mithun50-repo/
+
+# editor/agent
+/.claude/
+
+# python
+__pycache__/
+*.pyc
